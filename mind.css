@@ -1,0 +1,62 @@
+h1 {
+  font-family: impact, serif;
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: impact, serif;
+  font-style: italic;
+  font-size: 9pt font-weigh; bold;
+  color: "dark red";
+}
+
+em {
+  color: orange;
+  font-style: normal;
+  font-size: 11pt
+  font-family; verdana: serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.whole {
+  border: 7px solid darkgreen;
+  margin: 1em;
+  padding: 0.5em;
+  background-color: lightgoldenrodyellow;
+  font-weight: bold;
+}
+
+.image {
+  text-align: center;
+}
+
+body {
+  max-width: 800px;
+  m
+}
+
+.body1 {
+  border: 3px solid lightgreen;
+  margin: 1em;
+  padding: 0.5em;
+}
+
+body {
+  color: 262626
+}
+
+.class {
+  width: 50px;
+  height: 50px;
+}
+
+.full {
+  width: 340px align-self;
+  center
+}

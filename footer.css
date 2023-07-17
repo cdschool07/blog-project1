@@ -1,0 +1,22 @@
+.footer {
+    grid-area: ft;
+
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    column-gap: 30px;
+}
+
+.social li:hover {
+    background-color: #fec783;
+
+}
+
+.social i {
+    font-size: 42px;
+}

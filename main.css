@@ -1,0 +1,24 @@
+@import url('./home.css');
+
+.profile2-img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  margin-bottom: 74px;
+  padding: 30px;
+
+}
+li{
+ list-style-type: none;
+ color: 262626;
+
+}
+h1{
+  color: coral;
+  text-align: center;
+}
+.ul bio1{
+  max-width: 800px;
+}

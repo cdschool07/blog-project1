@@ -1,0 +1,149 @@
+h1 {
+    font-family: impact, serif;
+    color: coral;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  h2{
+    font-family: impact, serif;
+    color: coral;
+    font-style: oblique;
+    justify-content: center;
+  }
+  h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+    font-weight: bold;
+  }
+  
+  p {
+    font-family: impact, serif;
+    font-style: italic;
+    font-size: 9pt;
+    font-weight: bold;
+    color: "dark red";
+  }
+  
+  em {
+    color: orange;
+    font-style: normal;
+    font-size: 11pt
+    font-family; verdana: serif;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .whole {
+    border: 7px solid darkgreen;
+    margin: 1em;
+    padding: 0.5em;
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+  }
+  
+  .image {
+    text-align: center;
+  }
+  
+  body {
+    max-width: 800px;
+  }
+  
+  .body1 {
+    border: 3px solid lightgreen;
+    margin: 1em;
+    padding: 0.5em;
+  }
+  
+  body {
+    color: 262626
+  }
+  
+  .class {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .full {
+    width: 340px align-self;
+    center
+  }
+ 
+  .card1 {
+   border: 10px;
+    border-radius: 100%;
+    margin-bottom: 74px;
+    padding: 30px;
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  margin-bottom: 74px;
+  padding: 30px;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.card {
+  border: 10px;
+   border-radius: 50%;
+   margin-bottom: 74px;
+   padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+   border-radius: 5px;
+}
+
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
